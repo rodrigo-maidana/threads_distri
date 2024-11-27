@@ -1,6 +1,6 @@
 # Control de Hilos en Java
 
-**Link del Video:** [Ver explicación en YouTube](https://youtu.be/GmsCIqxrXvg)
+**Link del Video:** [Video en youTube](https://youtu.be/GmsCIqxrXvg)
 
 ## Se añadieron los siguientes elementos:
 
