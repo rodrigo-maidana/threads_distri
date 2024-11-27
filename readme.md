@@ -1,5 +1,3 @@
-Aquí tienes el texto optimizado para GitHub:
-
 ---
 
 # Control de Hilos en Java
